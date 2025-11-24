@@ -12,16 +12,16 @@ This system allows adding medicines, updating stock, deleting items, viewing exp
 
 Below are the main screenshots of the MediStock Pharmacy System.
 
-### 🖼️ 1. Inventory File View
-![Inventory File](/mnt/data/Screenshot%202025-11-24%20212701.png)
+### 🖼️ 1. Add New Medicine
+![Add New Medicine](<img src="C:\Users\Asus\Downloads\Medical store system\photos\1.png" width="700">)
 
-### 🖼️ 2. Add Medicine (Console Input)
-![Add Medicine](/mnt/data/Screenshot%202025-11-24%20212541.png)
+### 🖼️ 2. View Inventory
+![View Inventory](/mnt/data/Screenshot%202025-11-24%20212541.png)
 
-### 🖼️ 3. View Inventory (Console Output)
-![View Inventory](/mnt/data/%202025-11-24%20212526.png)
+### 🖼️ 3. Sell Medicine
+![Sell Medicine](/mnt/data/%202025-11-24%20212526.png)
 
-### 🖼️ 4. Expiry Check Warning
+### 🖼️ 4. Check Expiry Dates
 ![Expiry Warning](/mnt/data/%202025-11-24%20212513.png)
 
 ### 🖼️ 5. Exit & Save Message
